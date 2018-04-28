@@ -1,0 +1,2200 @@
+saving_model:it27000 iters
+saving trainers:step--27000
+
+STEP 27000 x 50
+Source to target (backtranslation)
+  - Training:         9.78   (262.96s: 4867.56tok/s src, 5326.98tok/s trg; epoch 3)
+Target to source (backtranslation)
+  - Training:         9.31   (230.09s: 5206.13tok/s src, 4637.68tok/s trg; epoch 3)
+Source to source
+  - Training:         1.92   (126.74s: 8656.50tok/s src, 8656.50tok/s trg; epoch 3)
+  - Validation:       1.48   (0.14s)
+Target to target
+  - Training:         1.79   (151.52s: 9320.26tok/s src, 9320.26tok/s trg; epoch 3)
+  - Validation:       1.31   (0.18s)
+Source to target
+  - Validation:      48.88   (0.15s)
+Target to source
+  - Validation:      72.96   (0.12s)
+
+saving_model:it28000 iters
+saving trainers:step--28000
+
+STEP 28000 x 50
+Source to target (backtranslation)
+  - Training:         9.16   (247.78s: 4934.42tok/s src, 5358.36tok/s trg; epoch 3)
+Target to source (backtranslation)
+  - Training:         9.22   (228.83s: 5153.63tok/s src, 4676.57tok/s trg; epoch 3)
+Source to source
+  - Training:         1.90   (124.23s: 8716.03tok/s src, 8716.03tok/s trg; epoch 3)
+  - Validation:       1.38   (0.14s)
+Target to target
+  - Training:         1.71   (142.84s: 9306.82tok/s src, 9306.82tok/s trg; epoch 3)
+  - Validation:       1.53   (0.17s)
+Source to target
+  - Validation:      55.64   (0.15s)
+Target to source
+  - Validation:      82.09   (0.12s)
+
+saving_model:it29000 iters
+saving trainers:step--29000
+
+STEP 29000 x 50
+Source to target (backtranslation)
+  - Training:         8.73   (218.86s: 4858.22tok/s src, 5095.47tok/s trg; epoch 3)
+Target to source (backtranslation)
+  - Training:         9.91   (223.12s: 5020.47tok/s src, 4701.39tok/s trg; epoch 3)
+Source to source
+  - Training:         1.97   (117.82s: 8658.89tok/s src, 8658.89tok/s trg; epoch 3)
+  - Validation:       1.63   (0.14s)
+Target to target
+  - Training:         1.69   (118.85s: 9295.87tok/s src, 9295.87tok/s trg; epoch 3)
+  - Validation:       1.37   (0.17s)
+Source to target
+  - Validation:      53.00   (0.14s)
+Target to source
+  - Validation:      71.66   (0.12s)
+
+saving_model:it30000 iters
+saving trainers:step--30000
+
+STEP 30000 x 50
+Source to target (backtranslation)
+  - Training:         9.12   (206.81s: 4810.98tok/s src, 5169.05tok/s trg; epoch 3)
+Target to source (backtranslation)
+  - Training:         9.21   (217.64s: 5059.81tok/s src, 4582.28tok/s trg; epoch 3)
+Source to source
+  - Training:         1.86   (115.31s: 8638.76tok/s src, 8638.76tok/s trg; epoch 3)
+  - Validation:       1.58   (0.14s)
+Target to target
+  - Training:         1.80   (117.05s: 9300.78tok/s src, 9300.78tok/s trg; epoch 3)
+  - Validation:       1.44   (0.16s)
+Source to target
+  - Validation:      51.82   (0.14s)
+Target to source
+  - Validation:      65.44   (0.12s)
+
+saving_model:it31000 iters
+saving trainers:step--31000
+
+STEP 31000 x 50
+Source to target (backtranslation)
+  - Training:         8.81   (238.25s: 4796.51tok/s src, 5361.29tok/s trg; epoch 3)
+Target to source (backtranslation)
+  - Training:         8.73   (218.20s: 5075.10tok/s src, 4514.15tok/s trg; epoch 3)
+Source to source
+  - Training:         1.83   (118.03s: 8368.53tok/s src, 8368.53tok/s trg; epoch 3)
+  - Validation:       1.55   (0.14s)
+Target to target
+  - Training:         1.67   (142.45s: 9144.33tok/s src, 9144.33tok/s trg; epoch 3)
+  - Validation:       1.47   (0.17s)
+Source to target
+  - Validation:      47.89   (0.15s)
+Target to source
+  - Validation:      80.72   (0.13s)
+
+saving_model:it32000 iters
+saving trainers:step--32000
+
+STEP 32000 x 50
+Source to target (backtranslation)
+  - Training:         8.88   (246.98s: 4837.87tok/s src, 5479.01tok/s trg; epoch 3)
+Target to source (backtranslation)
+  - Training:         8.58   (218.98s: 5076.25tok/s src, 4440.31tok/s trg; epoch 3)
+Source to source
+  - Training:         1.82   (112.32s: 8597.01tok/s src, 8597.01tok/s trg; epoch 3)
+  - Validation:       1.51   (0.15s)
+Target to target
+  - Training:         1.65   (143.82s: 9404.02tok/s src, 9404.02tok/s trg; epoch 3)
+  - Validation:       1.45   (0.17s)
+Source to target
+  - Validation:      45.81   (0.14s)
+Target to source
+  - Validation:      77.18   (0.12s)
+
+saving_model:it33000 iters
+saving trainers:step--33000
+
+STEP 33000 x 50
+Source to target (backtranslation)
+  - Training:         9.76   (276.64s: 4755.63tok/s src, 5758.99tok/s trg; epoch 3)
+Target to source (backtranslation)
+  - Training:         8.55   (226.97s: 5202.61tok/s src, 4346.37tok/s trg; epoch 3)
+Source to source
+  - Training:         1.82   (116.56s: 8493.73tok/s src, 8493.73tok/s trg; epoch 3)
+  - Validation:       1.39   (0.15s)
+Target to target
+  - Training:         1.65   (173.11s: 9543.08tok/s src, 9543.08tok/s trg; epoch 3)
+  - Validation:       1.34   (0.17s)
+Source to target
+  - Validation:      48.14   (0.14s)
+Target to source
+  - Validation:      75.45   (0.12s)
+
+saving_model:it34000 iters
+saving trainers:step--34000
+
+STEP 34000 x 50
+Source to target (backtranslation)
+  - Training:         8.10   (223.84s: 4801.02tok/s src, 5298.88tok/s trg; epoch 3)
+Target to source (backtranslation)
+  - Training:         8.28   (221.15s: 5055.28tok/s src, 4488.52tok/s trg; epoch 3)
+Source to source
+  - Training:         1.77   (113.84s: 8619.76tok/s src, 8619.76tok/s trg; epoch 3)
+  - Validation:       1.34   (0.15s)
+Target to target
+  - Training:         1.59   (126.99s: 9359.17tok/s src, 9359.17tok/s trg; epoch 3)
+  - Validation:       1.36   (0.16s)
+Source to target
+  - Validation:      52.01   (0.14s)
+Target to source
+  - Validation:      70.66   (0.12s)
+
+saving_model:it35000 iters
+saving trainers:step--35000
+
+STEP 35000 x 50
+Source to target (backtranslation)
+  - Training:         7.38   (207.61s: 4875.16tok/s src, 5077.59tok/s trg; epoch 3)
+Target to source (backtranslation)
+  - Training:         8.69   (236.70s: 5095.30tok/s src, 4738.70tok/s trg; epoch 3)
+Source to source
+  - Training:         1.80   (124.35s: 8814.57tok/s src, 8814.57tok/s trg; epoch 3)
+  - Validation:       1.55   (0.15s)
+Target to target
+  - Training:         1.58   (115.60s: 9201.27tok/s src, 9201.27tok/s trg; epoch 3)
+  - Validation:       1.41   (0.17s)
+Source to target
+  - Validation:      52.50   (0.14s)
+Target to source
+  - Validation:      61.98   (0.11s)
+
+saving_model:it36000 iters
+saving trainers:step--36000
+
+STEP 36000 x 50
+Source to target (backtranslation)
+  - Training:         8.63   (236.14s: 4683.50tok/s src, 5149.97tok/s trg; epoch 4)
+Target to source (backtranslation)
+  - Training:         8.14   (228.64s: 5023.20tok/s src, 4494.84tok/s trg; epoch 3)
+Source to source
+  - Training:         1.76   (117.38s: 8633.74tok/s src, 8633.74tok/s trg; epoch 3)
+  - Validation:       1.52   (0.14s)
+Target to target
+  - Training:         1.63   (134.25s: 9331.92tok/s src, 9331.92tok/s trg; epoch 4)
+  - Validation:       1.40   (0.16s)
+Source to target
+  - Validation:      47.01   (0.15s)
+Target to source
+  - Validation:      70.09   (0.12s)
+
+saving_model:it37000 iters
+saving trainers:step--37000
+
+STEP 37000 x 50
+Source to target (backtranslation)
+  - Training:         7.51   (215.92s: 4848.67tok/s src, 5131.33tok/s trg; epoch 4)
+Target to source (backtranslation)
+  - Training:         8.04   (220.48s: 5039.50tok/s src, 4604.40tok/s trg; epoch 3)
+Source to source
+  - Training:         1.75   (117.97s: 8706.03tok/s src, 8706.03tok/s trg; epoch 3)
+  - Validation:       1.38   (0.16s)
+Target to target
+  - Training:         1.56   (119.32s: 9300.79tok/s src, 9300.79tok/s trg; epoch 4)
+  - Validation:       1.53   (0.18s)
+Source to target
+  - Validation:      53.13   (0.14s)
+Target to source
+  - Validation:      64.67   (0.12s)
+
+saving_model:it38000 iters
+saving trainers:step--38000
+
+STEP 38000 x 50
+Source to target (backtranslation)
+  - Training:         7.57   (224.06s: 4840.46tok/s src, 5107.72tok/s trg; epoch 4)
+Target to source (backtranslation)
+  - Training:         8.12   (218.89s: 5010.90tok/s src, 4583.34tok/s trg; epoch 3)
+Source to source
+  - Training:         1.77   (115.94s: 8671.47tok/s src, 8671.47tok/s trg; epoch 3)
+  - Validation:       1.36   (0.15s)
+Target to target
+  - Training:         1.57   (124.51s: 9300.80tok/s src, 9300.80tok/s trg; epoch 4)
+  - Validation:       1.40   (0.17s)
+Source to target
+  - Validation:      45.56   (0.15s)
+Target to source
+  - Validation:      64.91   (0.11s)
+
+saving_model:it39000 iters
+saving trainers:step--39000
+
+STEP 39000 x 50
+Source to target (backtranslation)
+  - Training:         7.21   (223.37s: 4831.62tok/s src, 4985.43tok/s trg; epoch 4)
+Target to source (backtranslation)
+  - Training:         9.13   (271.25s: 5157.44tok/s src, 4941.58tok/s trg; epoch 3)
+Source to source
+  - Training:         1.83   (156.80s: 8734.67tok/s src, 8734.67tok/s trg; epoch 3)
+  - Validation:       1.38   (0.15s)
+Target to target
+  - Training:         1.55   (118.69s: 9373.22tok/s src, 9373.22tok/s trg; epoch 4)
+  - Validation:       1.55   (0.16s)
+Source to target
+  - Validation:      52.08   (0.15s)
+Target to source
+  - Validation:      60.97   (0.12s)
+
+saving_model:it40000 iters
+saving trainers:step--40000
+
+STEP 40000 x 50
+Source to target (backtranslation)
+  - Training:         7.21   (242.23s: 4608.28tok/s src, 4613.04tok/s trg; epoch 4)
+Target to source (backtranslation)
+  - Training:         9.72   (298.14s: 5096.45tok/s src, 5102.59tok/s trg; epoch 3)
+Source to source
+  - Training:         1.83   (178.50s: 8690.13tok/s src, 8690.13tok/s trg; epoch 3)
+  - Validation:       1.32   (0.14s)
+Target to target
+  - Training:         1.55   (115.45s: 9348.81tok/s src, 9348.81tok/s trg; epoch 4)
+  - Validation:       1.54   (0.16s)
+Source to target
+  - Validation:      58.24   (0.14s)
+Target to source
+  - Validation:      61.22   (0.12s)
+
+saving_model:it41000 iters
+saving trainers:step--41000
+
+STEP 41000 x 50
+Source to target (backtranslation)
+  - Training:         7.25   (254.39s: 4534.03tok/s src, 4585.67tok/s trg; epoch 4)
+Target to source (backtranslation)
+  - Training:         9.30   (314.62s: 5116.94tok/s src, 5079.23tok/s trg; epoch 4)
+Source to source
+  - Training:         1.78   (189.63s: 8505.92tok/s src, 8505.92tok/s trg; epoch 4)
+  - Validation:       1.30   (0.15s)
+Target to target
+  - Training:         1.55   (126.30s: 8994.36tok/s src, 8994.36tok/s trg; epoch 4)
+  - Validation:       1.56   (0.16s)
+Source to target
+  - Validation:      59.02   (0.14s)
+Target to source
+  - Validation:      70.90   (0.12s)
+
+saving_model:it42000 iters
+saving trainers:step--42000
+
+STEP 42000 x 50
+Source to target (backtranslation)
+  - Training:         7.03   (255.35s: 4470.68tok/s src, 4358.49tok/s trg; epoch 4)
+Target to source (backtranslation)
+  - Training:         9.51   (344.56s: 5161.85tok/s src, 5270.28tok/s trg; epoch 4)
+Source to source
+  - Training:         1.76   (202.79s: 8739.38tok/s src, 8739.38tok/s trg; epoch 4)
+  - Validation:       1.28   (0.16s)
+Target to target
+  - Training:         1.53   (121.55s: 9358.95tok/s src, 9358.95tok/s trg; epoch 4)
+  - Validation:       1.47   (0.18s)
+Source to target
+  - Validation:      56.24   (0.14s)
+Target to source
+  - Validation:      56.17   (0.13s)
+
+saving_model:it43000 iters
+saving trainers:step--43000
+
+STEP 43000 x 50
+Source to target (backtranslation)
+  - Training:         7.03   (265.71s: 4619.12tok/s src, 4189.21tok/s trg; epoch 4)
+Target to source (backtranslation)
+  - Training:        10.24   (332.81s: 4978.81tok/s src, 5343.41tok/s trg; epoch 4)
+Source to source
+  - Training:         1.74   (201.04s: 8784.02tok/s src, 8784.02tok/s trg; epoch 4)
+  - Validation:       1.28   (0.14s)
+Target to target
+  - Training:         1.53   (119.48s: 9248.51tok/s src, 9248.51tok/s trg; epoch 4)
+  - Validation:       1.41   (0.16s)
+Source to target
+  - Validation:      60.34   (0.14s)
+Target to source
+  - Validation:      55.36   (0.13s)
+
+saving_model:it44000 iters
+saving trainers:step--44000
+
+STEP 44000 x 50
+Source to target (backtranslation)
+  - Training:         7.12   (239.98s: 4499.23tok/s src, 4698.77tok/s trg; epoch 4)
+Target to source (backtranslation)
+  - Training:         7.16   (213.53s: 5014.47tok/s src, 4551.80tok/s trg; epoch 4)
+Source to source
+  - Training:         1.64   (112.49s: 8691.59tok/s src, 8691.59tok/s trg; epoch 4)
+  - Validation:       1.33   (0.16s)
+Target to target
+  - Training:         1.53   (116.12s: 9436.32tok/s src, 9436.32tok/s trg; epoch 4)
+  - Validation:       1.51   (0.16s)
+Source to target
+  - Validation:      51.73   (0.15s)
+Target to source
+  - Validation:      61.11   (0.12s)
+
+saving_model:it45000 iters
+saving trainers:step--45000
+
+STEP 45000 x 50
+Source to target (backtranslation)
+  - Training:         7.83   (264.53s: 4523.06tok/s src, 5014.93tok/s trg; epoch 4)
+Target to source (backtranslation)
+  - Training:         7.20   (227.80s: 5121.82tok/s src, 4459.03tok/s trg; epoch 4)
+Source to source
+  - Training:         1.65   (117.07s: 8668.54tok/s src, 8668.54tok/s trg; epoch 4)
+  - Validation:       1.30   (0.14s)
+Target to target
+  - Training:         1.53   (139.62s: 9377.72tok/s src, 9377.72tok/s trg; epoch 4)
+  - Validation:       1.53   (0.17s)
+Source to target
+  - Validation:      49.83   (0.14s)
+Target to source
+  - Validation:      58.60   (0.12s)
+
+saving_model:it46000 iters
+saving trainers:step--46000
+
+STEP 46000 x 50
+Source to target (backtranslation)
+  - Training:         6.65   (241.70s: 4519.07tok/s src, 4699.17tok/s trg; epoch 4)
+Target to source (backtranslation)
+  - Training:         7.56   (235.36s: 4946.59tok/s src, 4560.37tok/s trg; epoch 4)
+Source to source
+  - Training:         1.67   (122.59s: 8664.71tok/s src, 8664.71tok/s trg; epoch 4)
+  - Validation:       1.28   (0.14s)
+Target to target
+  - Training:         1.49   (125.60s: 9294.64tok/s src, 9294.64tok/s trg; epoch 4)
+  - Validation:       1.57   (0.17s)
+Source to target
+  - Validation:      54.03   (0.14s)
+Target to source
+  - Validation:      55.27   (0.12s)
+
+saving_model:it47000 iters
+saving trainers:step--47000
+
+STEP 47000 x 50
+Source to target (backtranslation)
+  - Training:         6.54   (246.57s: 4549.33tok/s src, 4696.40tok/s trg; epoch 4)
+Target to source (backtranslation)
+  - Training:         7.61   (243.30s: 5132.13tok/s src, 4729.67tok/s trg; epoch 4)
+Source to source
+  - Training:         1.68   (133.58s: 8633.83tok/s src, 8633.83tok/s trg; epoch 4)
+  - Validation:       1.32   (0.15s)
+Target to target
+  - Training:         1.49   (122.12s: 9330.05tok/s src, 9330.05tok/s trg; epoch 4)
+  - Validation:       1.62   (0.17s)
+Source to target
+  - Validation:      57.31   (0.15s)
+Target to source
+  - Validation:      59.41   (0.12s)
+
+saving_model:it48000 iters
+saving trainers:step--48000
+
+STEP 48000 x 50
+Source to target (backtranslation)
+  - Training:         6.98   (263.29s: 4554.71tok/s src, 4697.38tok/s trg; epoch 4)
+Target to source (backtranslation)
+  - Training:         7.86   (249.06s: 5100.53tok/s src, 4741.18tok/s trg; epoch 4)
+Source to source
+  - Training:         1.69   (134.43s: 8741.46tok/s src, 8741.46tok/s trg; epoch 4)
+  - Validation:       1.28   (0.15s)
+Target to target
+  - Training:         1.51   (136.55s: 9181.53tok/s src, 9181.53tok/s trg; epoch 4)
+  - Validation:       1.34   (0.17s)
+Source to target
+  - Validation:      47.83   (0.14s)
+Target to source
+  - Validation:      66.39   (0.12s)
+
+saving_model:it49000 iters
+saving trainers:step--49000
+
+STEP 49000 x 50
+Source to target (backtranslation)
+  - Training:         7.86   (273.93s: 4682.04tok/s src, 5295.35tok/s trg; epoch 4)
+Target to source (backtranslation)
+  - Training:         7.25   (235.37s: 5004.34tok/s src, 4403.83tok/s trg; epoch 4)
+Source to source
+  - Training:         1.64   (119.07s: 8654.46tok/s src, 8654.46tok/s trg; epoch 4)
+  - Validation:       1.31   (0.15s)
+Target to target
+  - Training:         1.53   (154.68s: 9308.22tok/s src, 9308.22tok/s trg; epoch 4)
+  - Validation:       1.35   (0.17s)
+Source to target
+  - Validation:      44.69   (0.14s)
+Target to source
+  - Validation:      66.44   (0.12s)
+
+saving_model:it50000 iters
+saving trainers:step--50000
+
+STEP 50000 x 50
+Source to target (backtranslation)
+  - Training:         7.81   (307.88s: 4635.37tok/s src, 5284.15tok/s trg; epoch 4)
+Target to source (backtranslation)
+  - Training:         7.36   (251.68s: 5111.67tok/s src, 4434.97tok/s trg; epoch 4)
+Source to source
+  - Training:         1.65   (128.25s: 8526.56tok/s src, 8526.56tok/s trg; epoch 4)
+  - Validation:       1.28   (0.15s)
+Target to target
+  - Training:         1.51   (171.87s: 9140.13tok/s src, 9140.13tok/s trg; epoch 4)
+  - Validation:       1.56   (0.17s)
+Source to target
+  - Validation:      50.77   (0.14s)
+Target to source
+  - Validation:      59.29   (0.12s)
+
+saving_model:it51000 iters
+saving trainers:step--51000
+
+STEP 51000 x 50
+Source to target (backtranslation)
+  - Training:         6.93   (256.87s: 4519.43tok/s src, 4640.64tok/s trg; epoch 5)
+Target to source (backtranslation)
+  - Training:         7.23   (235.24s: 4999.25tok/s src, 4621.80tok/s trg; epoch 4)
+Source to source
+  - Training:         1.65   (133.66s: 8581.39tok/s src, 8581.39tok/s trg; epoch 4)
+  - Validation:       1.28   (0.15s)
+Target to target
+  - Training:         1.49   (135.53s: 8876.38tok/s src, 8876.38tok/s trg; epoch 5)
+  - Validation:       1.34   (0.18s)
+Source to target
+  - Validation:      45.52   (0.14s)
+Target to source
+  - Validation:      72.00   (0.12s)
+
+saving_model:it52000 iters
+saving trainers:step--52000
+
+STEP 52000 x 50
+Source to target (backtranslation)
+  - Training:         7.18   (255.50s: 4728.12tok/s src, 5199.24tok/s trg; epoch 5)
+Target to source (backtranslation)
+  - Training:         6.85   (228.39s: 5035.78tok/s src, 4460.80tok/s trg; epoch 4)
+Source to source
+  - Training:         1.61   (117.49s: 8670.90tok/s src, 8670.90tok/s trg; epoch 4)
+  - Validation:       1.22   (0.15s)
+Target to target
+  - Training:         1.49   (140.33s: 9343.52tok/s src, 9343.52tok/s trg; epoch 5)
+  - Validation:       1.38   (0.17s)
+Source to target
+  - Validation:      42.94   (0.15s)
+Target to source
+  - Validation:      59.79   (0.12s)
+
+saving_model:it53000 iters
+saving trainers:step--53000
+
+STEP 53000 x 50
+Source to target (backtranslation)
+  - Training:         7.32   (277.49s: 4813.60tok/s src, 5350.52tok/s trg; epoch 5)
+Target to source (backtranslation)
+  - Training:         6.87   (250.26s: 5148.95tok/s src, 4505.85tok/s trg; epoch 4)
+Source to source
+  - Training:         1.63   (123.43s: 8751.60tok/s src, 8751.60tok/s trg; epoch 4)
+  - Validation:       1.52   (0.14s)
+Target to target
+  - Training:         1.49   (157.78s: 9348.08tok/s src, 9348.08tok/s trg; epoch 5)
+  - Validation:       1.41   (0.17s)
+Source to target
+  - Validation:      44.68   (0.15s)
+Target to source
+  - Validation:      82.95   (0.13s)
+
+saving_model:it54000 iters
+saving trainers:step--54000
+
+STEP 54000 x 50
+Source to target (backtranslation)
+  - Training:        10.64   (262.44s: 4334.36tok/s src, 5880.54tok/s trg; epoch 5)
+Target to source (backtranslation)
+  - Training:         6.77   (244.95s: 5393.18tok/s src, 4100.77tok/s trg; epoch 4)
+Source to source
+  - Training:         1.61   (116.25s: 8491.17tok/s src, 8491.17tok/s trg; epoch 4)
+  - Validation:       1.50   (0.15s)
+Target to target
+  - Training:         1.51   (162.38s: 9462.41tok/s src, 9462.41tok/s trg; epoch 5)
+  - Validation:       1.31   (0.18s)
+Source to target
+  - Validation:      40.45   (0.14s)
+Target to source
+  - Validation:      98.55   (0.12s)
+
+saving_model:it55000 iters
+saving trainers:step--55000
+
+STEP 55000 x 50
+Source to target (backtranslation)
+  - Training:         8.28   (257.35s: 4608.34tok/s src, 5544.16tok/s trg; epoch 5)
+Target to source (backtranslation)
+  - Training:         6.92   (226.76s: 5024.64tok/s src, 4242.73tok/s trg; epoch 4)
+Source to source
+  - Training:         1.59   (112.94s: 8587.18tok/s src, 8587.18tok/s trg; epoch 4)
+  - Validation:       1.33   (0.16s)
+Target to target
+  - Training:         1.48   (151.19s: 9361.79tok/s src, 9361.79tok/s trg; epoch 5)
+  - Validation:       1.52   (0.17s)
+Source to target
+  - Validation:      45.55   (0.14s)
+Target to source
+  - Validation:      63.11   (0.13s)
+
+saving_model:it56000 iters
+saving trainers:step--56000
+
+STEP 56000 x 50
+Source to target (backtranslation)
+  - Training:         6.72   (233.66s: 4619.60tok/s src, 5105.44tok/s trg; epoch 5)
+Target to source (backtranslation)
+  - Training:         6.75   (222.00s: 4961.12tok/s src, 4343.98tok/s trg; epoch 5)
+Source to source
+  - Training:         1.59   (112.56s: 8563.65tok/s src, 8563.65tok/s trg; epoch 5)
+  - Validation:       1.24   (0.15s)
+Target to target
+  - Training:         1.46   (131.91s: 9277.89tok/s src, 9277.89tok/s trg; epoch 5)
+  - Validation:       1.49   (0.17s)
+Source to target
+  - Validation:      41.98   (0.14s)
+Target to source
+  - Validation:      59.11   (0.12s)
+
+saving_model:it57000 iters
+saving trainers:step--57000
+
+STEP 57000 x 50
+Source to target (backtranslation)
+  - Training:         6.59   (236.57s: 4724.55tok/s src, 5097.91tok/s trg; epoch 5)
+Target to source (backtranslation)
+  - Training:         6.74   (227.90s: 4986.70tok/s src, 4414.42tok/s trg; epoch 5)
+Source to source
+  - Training:         1.60   (118.71s: 8542.53tok/s src, 8542.53tok/s trg; epoch 5)
+  - Validation:       1.27   (0.16s)
+Target to target
+  - Training:         1.44   (129.86s: 9290.04tok/s src, 9290.04tok/s trg; epoch 5)
+  - Validation:       1.39   (0.17s)
+Source to target
+  - Validation:      42.74   (0.16s)
+Target to source
+  - Validation:      61.17   (0.12s)
+
+saving_model:it58000 iters
+saving trainers:step--58000
+
+STEP 58000 x 50
+Source to target (backtranslation)
+  - Training:         6.66   (232.74s: 4582.85tok/s src, 5001.22tok/s trg; epoch 5)
+Target to source (backtranslation)
+  - Training:         6.65   (227.25s: 4883.83tok/s src, 4323.71tok/s trg; epoch 5)
+Source to source
+  - Training:         1.61   (113.93s: 8537.64tok/s src, 8537.64tok/s trg; epoch 5)
+  - Validation:       1.36   (0.15s)
+Target to target
+  - Training:         1.44   (124.65s: 9252.30tok/s src, 9252.30tok/s trg; epoch 5)
+  - Validation:       1.25   (0.17s)
+Source to target
+  - Validation:      37.04   (0.14s)
+Target to source
+  - Validation:      58.90   (0.12s)
+
+saving_model:it59000 iters
+saving trainers:step--59000
+
+STEP 59000 x 50
+Source to target (backtranslation)
+  - Training:         6.11   (250.27s: 4390.70tok/s src, 4458.00tok/s trg; epoch 5)
+Target to source (backtranslation)
+  - Training:         8.05   (306.22s: 5012.95tok/s src, 4878.54tok/s trg; epoch 5)
+Source to source
+  - Training:         1.66   (169.69s: 8691.92tok/s src, 8691.92tok/s trg; epoch 5)
+  - Validation:       1.22   (0.15s)
+Target to target
+  - Training:         1.43   (120.11s: 9120.18tok/s src, 9120.18tok/s trg; epoch 5)
+  - Validation:       1.26   (0.17s)
+Source to target
+  - Validation:      45.63   (0.14s)
+Target to source
+  - Validation:      56.36   (0.12s)
+
+saving_model:it60000 iters
+saving trainers:step--60000
+
+STEP 60000 x 50
+Source to target (backtranslation)
+  - Training:         5.95   (257.65s: 4323.77tok/s src, 4283.79tok/s trg; epoch 5)
+Target to source (backtranslation)
+  - Training:         8.29   (311.63s: 4988.24tok/s src, 5037.87tok/s trg; epoch 5)
+Source to source
+  - Training:         1.64   (175.94s: 8737.13tok/s src, 8737.13tok/s trg; epoch 5)
+  - Validation:       1.26   (0.16s)
+Target to target
+  - Training:         1.43   (120.11s: 9188.01tok/s src, 9188.01tok/s trg; epoch 5)
+  - Validation:       1.42   (0.17s)
+Source to target
+  - Validation:      47.52   (0.14s)
+Target to source
+  - Validation:      53.38   (0.13s)
+
+saving_model:it61000 iters
+saving trainers:step--61000
+
+STEP 61000 x 50
+Source to target (backtranslation)
+  - Training:         6.14   (256.41s: 4366.59tok/s src, 4219.08tok/s trg; epoch 5)
+Target to source (backtranslation)
+  - Training:         8.30   (311.04s: 5013.84tok/s src, 5053.78tok/s trg; epoch 5)
+Source to source
+  - Training:         1.69   (183.35s: 8511.52tok/s src, 8511.52tok/s trg; epoch 5)
+  - Validation:       1.24   (0.14s)
+Target to target
+  - Training:         1.42   (119.20s: 8960.78tok/s src, 8960.78tok/s trg; epoch 5)
+  - Validation:       1.50   (0.17s)
+Source to target
+  - Validation:      54.22   (0.15s)
+Target to source
+  - Validation:      57.21   (0.12s)
+
+
+saving_model:it62000 iters
+saving trainers:step--62000
+
+STEP 62000 x 50
+Source to target (backtranslation)
+  - Training:         6.20   (293.71s: 4325.64tok/s src, 4183.96tok/s trg; epoch 5)
+Target to source (backtranslation)
+  - Training:         7.92   (317.32s: 5065.74tok/s src, 5034.65tok/s trg; epoch 5)
+Source to source
+  - Training:         1.62   (181.53s: 8723.18tok/s src, 8723.18tok/s trg; epoch 5)
+  - Validation:       1.23   (0.16s)
+Target to target
+  - Training:         1.44   (129.63s: 9312.80tok/s src, 9312.80tok/s trg; epoch 5)
+  - Validation:       1.51   (0.18s)
+Source to target
+  - Validation:      50.63   (0.15s)
+Target to source
+  - Validation:      53.12   (0.13s)
+STEP 63000 x 50
+Source to target (backtranslation)
+  - Training:         5.85   (266.95s: 4229.06tok/s src, 4161.78tok/s trg; epoch 5)
+Target to source (backtranslation)
+  - Training:         7.58   (293.00s: 4932.53tok/s src, 4875.42tok/s trg; epoch 5)
+Source to source
+  - Training:         1.60   (165.74s: 8626.04tok/s src, 8626.04tok/s trg; epoch 5)
+  - Validation:       1.24   (0.14s)
+Target to target
+  - Training:         1.41   (120.11s: 9178.33tok/s src, 9178.33tok/s trg; epoch 5)
+  - Validation:       1.39   (0.16s)
+Source to target
+  - Validation:      47.90   (0.14s)
+Target to source
+  - Validation:      48.77   (0.12s)
+
+saving_model:it64000 iters
+saving trainers:step--64000
+
+STEP 64000 x 50
+Source to target (backtranslation)
+  - Training:         5.85   (266.27s: 4135.28tok/s src, 4285.12tok/s trg; epoch 5)
+Target to source (backtranslation)
+  - Training:         6.43   (245.58s: 4856.15tok/s src, 4409.88tok/s trg; epoch 5)
+Source to source
+  - Training:         1.56   (129.10s: 8338.42tok/s src, 8338.42tok/s trg; epoch 5)
+  - Validation:       1.29   (0.16s)
+Target to target
+  - Training:         1.42   (124.41s: 9069.31tok/s src, 9069.31tok/s trg; epoch 5)
+  - Validation:       1.42   (0.18s)
+Source to target
+  - Validation:      45.78   (0.16s)
+Target to source
+  - Validation:      57.03   (0.14s)
+
+saving_model:it65000 iters
+saving trainers:step--65000
+
+STEP 65000 x 50
+Source to target (backtranslation)
+  - Training:         5.84   (269.51s: 4233.98tok/s src, 4143.84tok/s trg; epoch 5)
+Target to source (backtranslation)
+  - Training:         7.49   (287.66s: 4836.44tok/s src, 4740.33tok/s trg; epoch 5)
+Source to source
+  - Training:         1.60   (158.97s: 8550.09tok/s src, 8550.09tok/s trg; epoch 5)
+  - Validation:       1.25   (0.15s)
+Target to target
+  - Training:         1.41   (122.65s: 9078.36tok/s src, 9078.36tok/s trg; epoch 5)
+  - Validation:       1.47   (0.17s)
+Source to target
+  - Validation:      46.31   (0.15s)
+Target to source
+  - Validation:      50.40   (0.12s)
+
+saving_model:it66000 iters
+saving trainers:step--66000
+
+STEP 66000 x 50
+Source to target (backtranslation)
+  - Training:         6.40   (269.49s: 4287.30tok/s src, 4636.43tok/s trg; epoch 6)
+Target to source (backtranslation)
+  - Training:         6.07   (241.03s: 4799.87tok/s src, 4237.71tok/s trg; epoch 5)
+Source to source
+  - Training:         1.52   (117.40s: 8610.33tok/s src, 8610.33tok/s trg; epoch 5)
+  - Validation:       1.28   (0.16s)
+Target to target
+  - Training:         1.43   (132.35s: 9275.69tok/s src, 9275.69tok/s trg; epoch 6)
+  - Validation:       1.28   (0.18s)
+Source to target
+  - Validation:      39.85   (0.15s)
+Target to source
+  - Validation:      59.17   (0.13s)
+
+saving_model:it67000 iters
+saving trainers:step--67000
+
+STEP 67000 x 50
+Source to target (backtranslation)
+  - Training:         6.19   (281.17s: 4056.51tok/s src, 4317.02tok/s trg; epoch 6)
+Target to source (backtranslation)
+  - Training:         6.17   (259.72s: 4502.58tok/s src, 4025.23tok/s trg; epoch 5)
+Source to source
+  - Training:         1.53   (128.55s: 8106.33tok/s src, 8106.33tok/s trg; epoch 5)
+  - Validation:       1.28   (0.15s)
+Target to target
+  - Training:         1.42   (136.48s: 8723.20tok/s src, 8723.20tok/s trg; epoch 6)
+  - Validation:       1.40   (0.17s)
+Source to target
+  - Validation:      43.17   (0.15s)
+Target to source
+  - Validation:      58.67   (0.12s)
+
+saving_model:it68000 iters
+saving trainers:step--68000
+
+STEP 68000 x 50
+Source to target (backtranslation)
+  - Training:         6.39   (249.27s: 4198.21tok/s src, 4585.50tok/s trg; epoch 6)
+Target to source (backtranslation)
+  - Training:         6.16   (254.66s: 4605.28tok/s src, 4098.39tok/s trg; epoch 5)
+Source to source
+  - Training:         1.53   (128.15s: 8124.62tok/s src, 8124.62tok/s trg; epoch 5)
+  - Validation:       1.27   (0.17s)
+Target to target
+  - Training:         1.43   (128.58s: 8730.00tok/s src, 8730.00tok/s trg; epoch 6)
+  - Validation:       1.41   (0.18s)
+Source to target
+  - Validation:      39.92   (0.16s)
+Target to source
+  - Validation:      62.06   (0.13s)
+
+saving_model:it69000 iters
+saving trainers:step--69000
+
+STEP 69000 x 50
+Source to target (backtranslation)
+  - Training:         6.20   (250.04s: 4418.59tok/s src, 4755.02tok/s trg; epoch 6)
+Target to source (backtranslation)
+  - Training:         6.54   (241.09s: 4848.79tok/s src, 4428.55tok/s trg; epoch 5)
+Source to source
+  - Training:         1.54   (124.92s: 8564.52tok/s src, 8564.52tok/s trg; epoch 5)
+  - Validation:       1.27   (0.16s)
+Target to target
+  - Training:         1.42   (127.24s: 9078.25tok/s src, 9078.25tok/s trg; epoch 6)
+  - Validation:       1.50   (0.17s)
+Source to target
+  - Validation:      47.25   (0.15s)
+Target to source
+  - Validation:      52.78   (0.12s)
+
+saving_model:it70000 iters
+saving trainers:step--70000
+
+STEP 70000 x 50
+Source to target (backtranslation)
+  - Training:         6.26   (267.94s: 4440.88tok/s src, 4768.52tok/s trg; epoch 6)
+Target to source (backtranslation)
+  - Training:         6.33   (244.20s: 5069.48tok/s src, 4550.53tok/s trg; epoch 5)
+Source to source
+  - Training:         1.55   (130.34s: 8762.17tok/s src, 8762.17tok/s trg; epoch 5)
+  - Validation:       1.27   (0.15s)
+Target to target
+  - Training:         1.43   (137.38s: 9256.95tok/s src, 9256.95tok/s trg; epoch 6)
+  - Validation:       1.26   (0.17s)
+Source to target
+  - Validation:      39.28   (0.15s)
+Target to source
+  - Validation:      58.72   (0.13s)
+
+saving_model:it71000 iters
+saving trainers:step--71000
+
+STEP 71000 x 50
+Source to target (backtranslation)
+  - Training:         6.53   (278.88s: 4299.14tok/s src, 4821.65tok/s trg; epoch 6)
+Target to source (backtranslation)
+  - Training:         6.07   (264.90s: 4856.85tok/s src, 4188.69tok/s trg; epoch 6)
+Source to source
+  - Training:         1.55   (143.88s: 8091.82tok/s src, 8091.82tok/s trg; epoch 6)
+  - Validation:       1.26   (0.18s)
+Target to target
+  - Training:         1.43   (155.81s: 8614.23tok/s src, 8614.23tok/s trg; epoch 6)
+  - Validation:       1.29   (0.21s)
+Source to target
+  - Validation:      40.87   (0.16s)
+Target to source
+  - Validation:      68.95   (0.13s)
+
+saving_model:it72000 iters
+saving trainers:step--72000
+
+STEP 72000 x 50
+Source to target (backtranslation)
+  - Training:         6.86   (280.72s: 4490.62tok/s src, 5197.84tok/s trg; epoch 6)
+Target to source (backtranslation)
+  - Training:         6.05   (243.90s: 4865.72tok/s src, 4212.73tok/s trg; epoch 6)
+Source to source
+  - Training:         1.53   (121.51s: 8468.54tok/s src, 8468.54tok/s trg; epoch 6)
+  - Validation:       1.28   (0.16s)
+Target to target
+  - Training:         1.44   (154.34s: 9276.77tok/s src, 9276.77tok/s trg; epoch 6)
+  - Validation:       1.41   (0.18s)
+Source to target
+  - Validation:      39.00   (0.14s)
+Target to source
+  - Validation:      57.21   (0.13s)
+
+saving_model:it73000 iters
+saving trainers:step--73000
+
+STEP 73000 x 50
+Source to target (backtranslation)
+  - Training:         7.26   (313.72s: 4539.88tok/s src, 5407.94tok/s trg; epoch 6)
+Target to source (backtranslation)
+  - Training:         6.04   (246.50s: 5131.88tok/s src, 4306.21tok/s trg; epoch 6)
+Source to source
+  - Training:         1.53   (122.64s: 8664.66tok/s src, 8664.66tok/s trg; epoch 6)
+  - Validation:       1.32   (0.16s)
+Target to target
+  - Training:         1.43   (182.71s: 9363.31tok/s src, 9363.31tok/s trg; epoch 6)
+  - Validation:       1.44   (0.17s)
+Source to target
+  - Validation:      38.94   (0.14s)
+Target to source
+  - Validation:      68.35   (0.12s)
+
+saving_model:it74000 iters
+saving trainers:step--74000
+
+STEP 74000 x 50
+Source to target (backtranslation)
+  - Training:         6.25   (276.28s: 4625.43tok/s src, 5224.14tok/s trg; epoch 6)
+Target to source (backtranslation)
+  - Training:         5.89   (244.37s: 5073.61tok/s src, 4356.52tok/s trg; epoch 6)
+Source to source
+  - Training:         1.52   (125.28s: 8658.30tok/s src, 8658.30tok/s trg; epoch 6)
+  - Validation:       1.25   (0.15s)
+Target to target
+  - Training:         1.40   (155.90s: 9357.73tok/s src, 9357.73tok/s trg; epoch 6)
+  - Validation:       1.48   (0.17s)
+Source to target
+  - Validation:      40.29   (0.14s)
+Target to source
+  - Validation:      55.86   (0.13s)
+
+saving_model:it75000 iters
+saving trainers:step--75000
+
+STEP 75000 x 50
+Source to target (backtranslation)
+  - Training:         5.45   (221.55s: 4558.12tok/s src, 4842.67tok/s trg; epoch 6)
+Target to source (backtranslation)
+  - Training:         5.93   (237.25s: 4956.74tok/s src, 4448.67tok/s trg; epoch 6)
+Source to source
+  - Training:         1.52   (120.63s: 8731.86tok/s src, 8731.86tok/s trg; epoch 6)
+  - Validation:       1.19   (0.18s)
+Target to target
+  - Training:         1.37   (118.32s: 9099.18tok/s src, 9099.18tok/s trg; epoch 6)
+  - Validation:       1.49   (0.17s)
+Source to target
+  - Validation:      40.97   (0.15s)
+Target to source
+  - Validation:      49.59   (0.12s)
+
+saving_model:it81000 iters
+saving trainers:step--81000
+
+STEP 81000 x 50
+Source to target (backtranslation)
+  - Training:         5.74   (287.75s: 4390.69tok/s src, 4376.42tok/s trg; epoch 7)
+Target to source (backtranslation)
+  - Training:         6.95   (313.43s: 5133.91tok/s src, 4925.51tok/s trg; epoch 6)
+Source to source
+  - Training:         1.59   (181.78s: 8523.82tok/s src, 8523.82tok/s trg; epoch 6)
+  - Validation:       1.18   (0.15s)
+Target to target
+  - Training:         1.39   (135.99s: 9145.67tok/s src, 9145.67tok/s trg; epoch 7)
+  - Validation:       1.40   (0.17s)
+Source to target
+  - Validation:      42.10   (0.15s)
+Target to source
+  - Validation:      49.45   (0.12s)
+
+saving_model:it82000 iters
+saving trainers:step--82000
+
+STEP 82000 x 50
+Source to target (backtranslation)
+  - Training:         5.55   (297.17s: 4407.51tok/s src, 4339.94tok/s trg; epoch 7)
+Target to source (backtranslation)
+  - Training:         6.73   (327.13s: 5211.05tok/s src, 5043.81tok/s trg; epoch 6)
+Source to source
+  - Training:         1.55   (184.48s: 8753.60tok/s src, 8753.60tok/s trg; epoch 6)
+  - Validation:       1.19   (0.14s)
+Target to target
+  - Training:         1.37   (136.68s: 9362.77tok/s src, 9362.77tok/s trg; epoch 7)
+  - Validation:       1.44   (0.17s)
+Source to target
+  - Validation:      45.90   (0.14s)
+Target to source
+  - Validation:      49.93   (0.12s)
+
+saving_model:it83000 iters
+saving trainers:step--83000
+
+STEP 83000 x 50
+Source to target (backtranslation)
+  - Training:         5.35   (257.17s: 4397.60tok/s src, 4380.36tok/s trg; epoch 7)
+Target to source (backtranslation)
+  - Training:         6.80   (380.99s: 5308.80tok/s src, 5158.04tok/s trg; epoch 6)
+Source to source
+  - Training:         1.56   (219.02s: 8818.53tok/s src, 8818.53tok/s trg; epoch 6)
+  - Validation:       1.19   (0.15s)
+Target to target
+  - Training:         1.37   (128.05s: 9265.24tok/s src, 9265.24tok/s trg; epoch 7)
+  - Validation:       1.44   (0.17s)
+Source to target
+  - Validation:      46.70   (0.14s)
+Target to source
+  - Validation:      49.59   (0.12s)
+
+saving_model:it84000 iters
+saving trainers:step--84000
+
+STEP 84000 x 50
+Source to target (backtranslation)
+  - Training:         5.36   (245.99s: 4421.91tok/s src, 4448.99tok/s trg; epoch 7)
+Target to source (backtranslation)
+  - Training:         6.27   (277.70s: 5096.97tok/s src, 4862.60tok/s trg; epoch 6)
+Source to source
+  - Training:         1.52   (155.12s: 8767.29tok/s src, 8767.29tok/s trg; epoch 6)
+  - Validation:       1.21   (0.14s)
+Target to target
+  - Training:         1.37   (118.02s: 9290.78tok/s src, 9290.78tok/s trg; epoch 7)
+  - Validation:       1.38   (0.17s)
+Source to target
+  - Validation:      39.60   (0.15s)
+Target to source
+  - Validation:      53.18   (0.13s)
+
+saving_model:it85000 iters
+saving trainers:step--85000
+
+STEP 85000 x 50
+Source to target (backtranslation)
+  - Training:         5.46   (275.98s: 4469.10tok/s src, 4454.61tok/s trg; epoch 7)
+Target to source (backtranslation)
+  - Training:         6.02   (263.45s: 5116.39tok/s src, 4744.70tok/s trg; epoch 6)
+Source to source
+  - Training:         1.51   (143.63s: 8717.24tok/s src, 8717.24tok/s trg; epoch 6)
+  - Validation:       1.19   (0.15s)
+Target to target
+  - Training:         1.37   (133.08s: 9360.42tok/s src, 9360.42tok/s trg; epoch 7)
+  - Validation:       1.41   (0.17s)
+Source to target
+  - Validation:      42.05   (0.14s)
+Target to source
+  - Validation:      47.80   (0.13s)
+
+saving_model:it86000 iters
+saving trainers:step--86000
+
+STEP 86000 x 50
+Source to target (backtranslation)
+  - Training:         5.30   (265.39s: 4354.96tok/s src, 4420.88tok/s trg; epoch 7)
+Target to source (backtranslation)
+  - Training:         5.88   (256.59s: 4973.94tok/s src, 4610.34tok/s trg; epoch 7)
+Source to source
+  - Training:         1.50   (136.91s: 8745.90tok/s src, 8745.90tok/s trg; epoch 7)
+  - Validation:       1.20   (0.15s)
+Target to target
+  - Training:         1.36   (126.42s: 9290.08tok/s src, 9290.08tok/s trg; epoch 7)
+  - Validation:       1.23   (0.17s)
+Source to target
+  - Validation:      41.56   (0.14s)
+Target to source
+  - Validation:      49.31   (0.12s)
+
+saving_model:it87000 iters
+saving trainers:step--87000
+
+STEP 87000 x 50
+Source to target (backtranslation)
+  - Training:         5.28   (264.89s: 4347.70tok/s src, 4478.57tok/s trg; epoch 7)
+Target to source (backtranslation)
+  - Training:         5.75   (240.32s: 4940.98tok/s src, 4550.76tok/s trg; epoch 7)
+Source to source
+  - Training:         1.49   (122.96s: 8807.50tok/s src, 8807.50tok/s trg; epoch 7)
+  - Validation:       1.18   (0.15s)
+Target to target
+  - Training:         1.36   (124.94s: 9477.65tok/s src, 9477.65tok/s trg; epoch 7)
+  - Validation:       1.44   (0.17s)
+Source to target
+  - Validation:      43.00   (0.14s)
+Target to source
+  - Validation:      44.54   (0.12s)
+
+saving_model:it88000 iters
+saving trainers:step--88000
+
+STEP 88000 x 50
+Source to target (backtranslation)
+  - Training:         5.26   (250.64s: 4414.69tok/s src, 4595.57tok/s trg; epoch 7)
+Target to source (backtranslation)
+  - Training:         5.80   (238.70s: 4979.86tok/s src, 4612.19tok/s trg; epoch 7)
+Source to source
+  - Training:         1.49   (126.14s: 8733.45tok/s src, 8733.45tok/s trg; epoch 7)
+  - Validation:       1.37   (0.15s)
+Target to target
+  - Training:         1.36   (127.14s: 9188.27tok/s src, 9188.27tok/s trg; epoch 7)
+  - Validation:       1.41   (0.17s)
+Source to target
+  - Validation:      38.57   (0.14s)
+Target to source
+  - Validation:      62.79   (0.12s)
+
+saving_model:it89000 iters
+saving trainers:step--89000
+
+STEP 89000 x 50
+Source to target (backtranslation)
+  - Training:         5.43   (243.81s: 4516.33tok/s src, 4868.84tok/s trg; epoch 7)
+Target to source (backtranslation)
+  - Training:         5.68   (235.89s: 4993.73tok/s src, 4497.41tok/s trg; epoch 7)
+Source to source
+  - Training:         1.48   (120.35s: 8714.11tok/s src, 8714.11tok/s trg; epoch 7)
+  - Validation:       1.16   (0.15s)
+Target to target
+  - Training:         1.35   (129.51s: 9303.21tok/s src, 9303.21tok/s trg; epoch 7)
+  - Validation:       1.46   (0.17s)
+Source to target
+  - Validation:      42.27   (0.14s)
+Target to source
+  - Validation:      50.03   (0.12s)
+
+saving_model:it90000 iters
+saving trainers:step--90000
+
+STEP 90000 x 50
+Source to target (backtranslation)
+  - Training:         5.10   (236.53s: 4450.57tok/s src, 4582.01tok/s trg; epoch 7)
+Target to source (backtranslation)
+  - Training:         5.93   (242.32s: 5003.92tok/s src, 4677.21tok/s trg; epoch 7)
+Source to source
+  - Training:         1.50   (131.79s: 8737.30tok/s src, 8737.30tok/s trg; epoch 7)
+  - Validation:       1.19   (0.15s)
+Target to target
+  - Training:         1.35   (115.42s: 9375.23tok/s src, 9375.23tok/s trg; epoch 7)
+  - Validation:       1.48   (0.17s)
+Source to target
+  - Validation:      45.35   (0.15s)
+Target to source
+  - Validation:      55.13   (0.12s)
+
+saving_model:it91000 iters
+saving trainers:step--91000
+
+STEP 91000 x 50
+Source to target (backtranslation)
+  - Training:         5.81   (264.54s: 4626.98tok/s src, 5142.05tok/s trg; epoch 7)
+Target to source (backtranslation)
+  - Training:         5.61   (240.64s: 5006.39tok/s src, 4415.17tok/s trg; epoch 7)
+Source to source
+  - Training:         1.48   (125.52s: 8395.82tok/s src, 8395.82tok/s trg; epoch 7)
+  - Validation:       1.21   (0.16s)
+Target to target
+  - Training:         1.38   (157.11s: 9145.26tok/s src, 9145.26tok/s trg; epoch 7)
+  - Validation:       1.32   (0.17s)
+Source to target
+  - Validation:      37.34   (0.15s)
+Target to source
+  - Validation:      52.40   (0.12s)
+
+saving_model:it92000 iters
+saving trainers:step--92000
+
+STEP 92000 x 50
+Source to target (backtranslation)
+  - Training:         5.97   (280.54s: 4703.88tok/s src, 5407.52tok/s trg; epoch 7)
+Target to source (backtranslation)
+  - Training:         5.46   (234.35s: 5003.00tok/s src, 4351.68tok/s trg; epoch 7)
+Source to source
+  - Training:         1.48   (118.06s: 8682.31tok/s src, 8682.31tok/s trg; epoch 7)
+  - Validation:       1.20   (0.14s)
+Target to target
+  - Training:         1.37   (159.64s: 9436.40tok/s src, 9436.40tok/s trg; epoch 7)
+  - Validation:       1.41   (0.16s)
+Source to target
+  - Validation:      40.43   (0.14s)
+Target to source
+  - Validation:      54.88   (0.13s)
+
+saving_model:it93000 iters
+saving trainers:step--93000
+
+STEP 93000 x 50
+Source to target (backtranslation)
+  - Training:         6.00   (285.29s: 4678.33tok/s src, 5449.63tok/s trg; epoch 7)
+Target to source (backtranslation)
+  - Training:         5.38   (235.38s: 4973.44tok/s src, 4277.47tok/s trg; epoch 7)
+Source to source
+  - Training:         1.47   (115.10s: 8691.60tok/s src, 8691.60tok/s trg; epoch 7)
+  - Validation:       1.21   (0.15s)
+Target to target
+  - Training:         1.36   (165.47s: 9523.77tok/s src, 9523.77tok/s trg; epoch 7)
+  - Validation:       1.34   (0.17s)
+Source to target
+  - Validation:      37.70   (0.14s)
+Target to source
+  - Validation:      54.16   (0.12s)
+
+saving_model:it94000 iters
+saving trainers:step--94000
+
+STEP 94000 x 50
+Source to target (backtranslation)
+  - Training:         5.60   (257.63s: 4649.92tok/s src, 5169.83tok/s trg; epoch 7)
+Target to source (backtranslation)
+  - Training:         5.61   (264.11s: 5150.49tok/s src, 4468.72tok/s trg; epoch 7)
+Source to source
+  - Training:         1.50   (132.17s: 8802.04tok/s src, 8802.04tok/s trg; epoch 7)
+  - Validation:       1.28   (0.14s)
+Target to target
+  - Training:         1.36   (136.99s: 9447.93tok/s src, 9447.93tok/s trg; epoch 7)
+  - Validation:       1.45   (0.17s)
+Source to target
+  - Validation:      43.39   (0.15s)
+Target to source
+  - Validation:      56.16   (0.12s)
+
+saving_model:it95000 iters
+saving trainers:step--95000
+
+STEP 95000 x 50
+Source to target (backtranslation)
+  - Training:         5.33   (242.85s: 4617.92tok/s src, 5019.14tok/s trg; epoch 7)
+Target to source (backtranslation)
+  - Training:         5.42   (237.91s: 5065.80tok/s src, 4449.11tok/s trg; epoch 7)
+Source to source
+  - Training:         1.47   (119.84s: 8723.12tok/s src, 8723.12tok/s trg; epoch 7)
+  - Validation:       1.26   (0.15s)
+Target to target
+  - Training:         1.35   (135.90s: 9255.91tok/s src, 9255.91tok/s trg; epoch 7)
+  - Validation:       1.42   (0.17s)
+Source to target
+  - Validation:      41.83   (0.14s)
+Target to source
+  - Validation:      61.65   (0.13s)
+
+saving_model:it96000 iters
+saving trainers:step--96000
+
+STEP 96000 x 50
+Source to target (backtranslation)
+  - Training:         5.24   (255.05s: 4468.45tok/s src, 4713.47tok/s trg; epoch 8)
+Target to source (backtranslation)
+  - Training:         5.46   (248.86s: 4982.65tok/s src, 4462.75tok/s trg; epoch 7)
+Source to source
+  - Training:         1.48   (125.91s: 8733.22tok/s src, 8733.22tok/s trg; epoch 7)
+  - Validation:       1.24   (0.14s)
+Target to target
+  - Training:         1.35   (128.19s: 9220.46tok/s src, 9220.46tok/s trg; epoch 8)
+  - Validation:       1.39   (0.17s)
+Source to target
+  - Validation:      40.14   (0.14s)
+Target to source
+  - Validation:      51.76   (0.13s)
+
+saving_model:it97000 iters
+saving trainers:step--97000
+
+STEP 97000 x 50
+Source to target (backtranslation)
+  - Training:         5.63   (269.70s: 4589.63tok/s src, 5041.05tok/s trg; epoch 8)
+Target to source (backtranslation)
+  - Training:         5.27   (239.50s: 5101.55tok/s src, 4433.75tok/s trg; epoch 7)
+Source to source
+  - Training:         1.47   (126.92s: 8654.38tok/s src, 8654.38tok/s trg; epoch 7)
+  - Validation:       1.31   (0.15s)
+Target to target
+  - Training:         1.36   (147.75s: 9317.02tok/s src, 9317.02tok/s trg; epoch 8)
+  - Validation:       1.43   (0.17s)
+Source to target
+  - Validation:      40.08   (0.14s)
+Target to source
+  - Validation:      56.12   (0.12s)
+
+saving_model:it98000 iters
+saving trainers:step--98000
+
+STEP 98000 x 50
+Source to target (backtranslation)
+  - Training:         5.81   (269.98s: 4553.11tok/s src, 5117.16tok/s trg; epoch 8)
+Target to source (backtranslation)
+  - Training:         5.27   (247.07s: 5191.74tok/s src, 4332.20tok/s trg; epoch 7)
+Source to source
+  - Training:         1.47   (125.11s: 8594.38tok/s src, 8594.38tok/s trg; epoch 7)
+  - Validation:       1.28   (0.14s)
+Target to target
+  - Training:         1.36   (145.33s: 9500.35tok/s src, 9500.35tok/s trg; epoch 8)
+  - Validation:       1.39   (0.17s)
+Source to target
+  - Validation:      36.69   (0.15s)
+Target to source
+  - Validation:      57.36   (0.12s)
+
+saving_model:it99000 iters
+saving trainers:step--99000
+
+STEP 99000 x 50
+Source to target (backtranslation)
+  - Training:         5.17   (237.09s: 4501.35tok/s src, 4732.53tok/s trg; epoch 8)
+Target to source (backtranslation)
+  - Training:         5.41   (228.61s: 4982.18tok/s src, 4543.74tok/s trg; epoch 7)
+Source to source
+  - Training:         1.47   (118.79s: 8805.09tok/s src, 8805.09tok/s trg; epoch 7)
+  - Validation:       1.21   (0.15s)
+Target to target
+  - Training:         1.34   (121.68s: 9294.41tok/s src, 9294.41tok/s trg; epoch 8)
+  - Validation:       1.57   (0.18s)
+Source to target
+  - Validation:      46.82   (0.14s)
+Target to source
+  - Validation:      51.55   (0.12s)
+
+saving_model:it100000 iters
+saving trainers:step--100000
+
+STEP 100000 x 50
+Source to target (backtranslation)
+  - Training:         5.20   (232.26s: 4489.38tok/s src, 4788.03tok/s trg; epoch 8)
+Target to source (backtranslation)
+  - Training:         5.28   (232.24s: 4986.28tok/s src, 4469.22tok/s trg; epoch 7)
+Source to source
+  - Training:         1.45   (118.21s: 8766.68tok/s src, 8766.68tok/s trg; epoch 7)
+  - Validation:       1.20   (0.18s)
+Target to target
+  - Training:         1.34   (117.27s: 9510.87tok/s src, 9510.87tok/s trg; epoch 8)
+  - Validation:       1.51   (0.18s)
+Source to target
+  - Validation:      46.29   (0.14s)
+Target to source
+  - Validation:      48.89   (0.12s)
+
+saving_model:it101000 iters
+saving trainers:step--101000
+
+STEP 101000 x 50
+Source to target (backtranslation)
+  - Training:         5.15   (251.18s: 4531.64tok/s src, 4797.16tok/s trg; epoch 8)
+Target to source (backtranslation)
+  - Training:         5.38   (246.25s: 5081.41tok/s src, 4563.04tok/s trg; epoch 8)
+Source to source
+  - Training:         1.47   (135.55s: 8438.00tok/s src, 8438.00tok/s trg; epoch 8)
+  - Validation:       1.21   (0.16s)
+Target to target
+  - Training:         1.34   (133.39s: 8989.45tok/s src, 8989.45tok/s trg; epoch 8)
+  - Validation:       1.38   (0.17s)
+Source to target
+  - Validation:      38.33   (0.15s)
+Target to source
+  - Validation:      48.45   (0.12s)
+
+saving_model:it102000 iters
+saving trainers:step--102000
+
+STEP 102000 x 50
+Source to target (backtranslation)
+  - Training:         5.05   (289.79s: 4439.62tok/s src, 4517.94tok/s trg; epoch 8)
+Target to source (backtranslation)
+  - Training:         6.12   (336.23s: 5294.01tok/s src, 4983.58tok/s trg; epoch 8)
+Source to source
+  - Training:         1.52   (189.42s: 8802.70tok/s src, 8802.70tok/s trg; epoch 8)
+  - Validation:       1.17   (0.15s)
+Target to target
+  - Training:         1.35   (133.55s: 9360.09tok/s src, 9360.09tok/s trg; epoch 8)
+  - Validation:       1.25   (0.17s)
+Source to target
+  - Validation:      43.37   (0.15s)
+Target to source
+  - Validation:      43.48   (0.13s)
+
+saving_model:it103000 iters
+saving trainers:step--103000
+
+STEP 103000 x 50
+Source to target (backtranslation)
+  - Training:         4.82   (303.63s: 4543.10tok/s src, 4236.74tok/s trg; epoch 8)
+Target to source (backtranslation)
+  - Training:         6.52   (381.90s: 5219.27tok/s src, 5225.22tok/s trg; epoch 8)
+Source to source
+  - Training:         1.51   (230.72s: 8788.48tok/s src, 8788.48tok/s trg; epoch 8)
+  - Validation:       1.18   (0.16s)
+Target to target
+  - Training:         1.34   (137.16s: 9408.42tok/s src, 9408.42tok/s trg; epoch 8)
+  - Validation:       1.38   (0.17s)
+Source to target
+  - Validation:      45.43   (0.14s)
+Target to source
+  - Validation:      54.32   (0.12s)
+
+saving_model:it104000 iters
+saving trainers:step--104000
+
+STEP 104000 x 50
+Source to target (backtranslation)
+  - Training:         5.02   (258.75s: 4485.25tok/s src, 4655.22tok/s trg; epoch 8)
+Target to source (backtranslation)
+  - Training:         5.47   (256.37s: 5009.83tok/s src, 4592.86tok/s trg; epoch 8)
+Source to source
+  - Training:         1.46   (134.53s: 8684.16tok/s src, 8684.16tok/s trg; epoch 8)
+  - Validation:       1.21   (0.14s)
+Target to target
+  - Training:         1.33   (134.12s: 9188.94tok/s src, 9188.94tok/s trg; epoch 8)
+  - Validation:       1.37   (0.17s)
+Source to target
+  - Validation:      42.03   (0.14s)
+Target to source
+  - Validation:      44.56   (0.12s)
+
+saving_model:it105000 iters
+saving trainers:step--105000
+
+STEP 105000 x 50
+Source to target (backtranslation)
+  - Training:         5.30   (249.74s: 4418.94tok/s src, 4866.37tok/s trg; epoch 8)
+Target to source (backtranslation)
+  - Training:         5.04   (232.83s: 4941.41tok/s src, 4318.97tok/s trg; epoch 8)
+Source to source
+  - Training:         1.44   (116.00s: 8673.41tok/s src, 8673.41tok/s trg; epoch 8)
+  - Validation:       1.29   (0.14s)
+Target to target
+  - Training:         1.34   (123.44s: 9489.40tok/s src, 9489.40tok/s trg; epoch 8)
+  - Validation:       1.54   (0.17s)
+Source to target
+  - Validation:      49.55   (0.14s)
+Target to source
+  - Validation:      61.42   (0.12s)
+
+saving_model:it106000 iters
+saving trainers:step--106000
+
+STEP 106000 x 50
+Source to target (backtranslation)
+  - Training:         5.07   (252.28s: 4323.05tok/s src, 4656.65tok/s trg; epoch 8)
+Target to source (backtranslation)
+  - Training:         5.36   (254.56s: 4965.04tok/s src, 4436.17tok/s trg; epoch 8)
+Source to source
+  - Training:         1.47   (130.28s: 8671.41tok/s src, 8671.41tok/s trg; epoch 8)
+  - Validation:       1.20   (0.14s)
+Target to target
+  - Training:         1.33   (131.12s: 9214.20tok/s src, 9214.20tok/s trg; epoch 8)
+  - Validation:       1.38   (0.17s)
+Source to target
+  - Validation:      41.76   (0.14s)
+Target to source
+  - Validation:      46.00   (0.13s)
+
+saving_model:it107000 iters
+saving trainers:step--107000
+
+STEP 107000 x 50
+Source to target (backtranslation)
+  - Training:         4.87   (271.29s: 4343.14tok/s src, 4542.34tok/s trg; epoch 8)
+Target to source (backtranslation)
+  - Training:         5.46   (256.22s: 5075.23tok/s src, 4581.08tok/s trg; epoch 8)
+Source to source
+  - Training:         1.48   (140.24s: 8690.61tok/s src, 8690.61tok/s trg; epoch 8)
+  - Validation:       1.20   (0.15s)
+Target to target
+  - Training:         1.33   (126.09s: 9276.11tok/s src, 9276.11tok/s trg; epoch 8)
+  - Validation:       1.37   (0.17s)
+Source to target
+  - Validation:      43.54   (0.15s)
+Target to source
+  - Validation:      47.92   (0.12s)
+
+saving_model:it108000 iters
+saving trainers:step--108000
+
+STEP 108000 x 50
+Source to target (backtranslation)
+  - Training:         4.85   (270.12s: 4334.47tok/s src, 4413.35tok/s trg; epoch 8)
+Target to source (backtranslation)
+  - Training:         5.87   (276.57s: 5079.64tok/s src, 4786.51tok/s trg; epoch 8)
+Source to source
+  - Training:         1.49   (149.93s: 8762.43tok/s src, 8762.43tok/s trg; epoch 8)
+  - Validation:       1.22   (0.14s)
+Target to target
+  - Training:         1.33   (129.70s: 9158.88tok/s src, 9158.88tok/s trg; epoch 8)
+  - Validation:       1.48   (0.17s)
+Source to target
+  - Validation:      45.85   (0.14s)
+Target to source
+  - Validation:      45.51   (0.12s)
+
+saving_model:it109000 iters
+saving trainers:step--109000
+
+STEP 109000 x 50
+Source to target (backtranslation)
+  - Training:         4.83   (244.55s: 4415.28tok/s src, 4516.31tok/s trg; epoch 8)
+Target to source (backtranslation)
+  - Training:         5.81   (253.47s: 4970.17tok/s src, 4732.85tok/s trg; epoch 8)
+Source to source
+  - Training:         1.48   (144.07s: 8693.91tok/s src, 8693.91tok/s trg; epoch 8)
+  - Validation:       1.21   (0.15s)
+Target to target
+  - Training:         1.33   (123.32s: 9075.79tok/s src, 9075.79tok/s trg; epoch 8)
+  - Validation:       1.64   (0.17s)
+Source to target
+  - Validation:      51.79   (0.14s)
+Target to source
+
+saving_model:it110000 iters
+saving trainers:step--110000
+
+STEP 110000 x 50
+Source to target (backtranslation)
+  - Training:         5.33   (299.08s: 4402.43tok/s src, 4680.29tok/s trg; epoch 8)
+Target to source (backtranslation)
+  - Training:         5.33   (261.78s: 5051.68tok/s src, 4530.71tok/s trg; epoch 8)
+Source to source
+  - Training:         1.46   (137.19s: 8677.91tok/s src, 8677.91tok/s trg; epoch 8)
+  - Validation:       1.26   (0.14s)
+Target to target
+  - Training:         1.35   (150.55s: 9318.90tok/s src, 9318.90tok/s trg; epoch 8)
+  - Validation:       1.38   (0.17s)
+Source to target
+  - Validation:      37.99   (0.14s)
+Target to source
+  - Validation:      51.41   (0.12s)
+
+saving_model:it111000 iters
+saving trainers:step--111000
+
+STEP 111000 x 50
+Source to target (backtranslation)
+  - Training:         5.47   (318.40s: 4606.90tok/s src, 5035.19tok/s trg; epoch 9)
+Target to source (backtranslation)
+  - Training:         5.08   (256.30s: 5069.47tok/s src, 4452.76tok/s trg; epoch 8)
+Source to source
+  - Training:         1.45   (141.22s: 8458.34tok/s src, 8458.34tok/s trg; epoch 8)
+  - Validation:       1.21   (0.15s)
+Target to target
+  - Training:         1.35   (177.34s: 9076.88tok/s src, 9076.88tok/s trg; epoch 9)
+  - Validation:       1.39   (0.17s)
+Source to target
+  - Validation:      40.25   (0.15s)
+Target to source
+  - Validation:      52.18   (0.13s)
+
+saving_model:it112000 iters
+saving trainers:step--112000
+
+STEP 112000 x 50
+Source to target (backtranslation)
+  - Training:         5.26   (301.41s: 4472.38tok/s src, 4831.81tok/s trg; epoch 9)
+Target to source (backtranslation)
+  - Training:         5.14   (290.34s: 5247.32tok/s src, 4589.27tok/s trg; epoch 8)
+Source to source
+  - Training:         1.46   (154.69s: 8655.11tok/s src, 8655.11tok/s trg; epoch 8)
+  - Validation:       1.22   (0.14s)
+Target to target
+  - Training:         1.34   (160.77s: 9285.18tok/s src, 9285.18tok/s trg; epoch 9)
+  - Validation:       1.42   (0.17s)
+Source to target
+  - Validation:      43.93   (0.15s)
+Target to source
+  - Validation:      53.04   (0.12s)
+
+saving_model:it113000 iters
+saving trainers:step--113000
+
+STEP 113000 x 50
+Source to target (backtranslation)
+  - Training:         4.94   (245.25s: 4284.72tok/s src, 4516.33tok/s trg; epoch 9)
+Target to source (backtranslation)
+  - Training:         5.05   (237.75s: 4980.89tok/s src, 4492.35tok/s trg; epoch 8)
+Source to source
+  - Training:         1.44   (126.74s: 8658.29tok/s src, 8658.29tok/s trg; epoch 8)
+  - Validation:       1.41   (0.15s)
+Target to target
+  - Training:         1.32   (118.08s: 9267.51tok/s src, 9267.51tok/s trg; epoch 9)
+  - Validation:       1.38   (0.17s)
+Source to target
+  - Validation:      38.41   (0.15s)
+Target to source
+  - Validation:      60.23   (0.12s)
+
+saving_model:it114000 iters
+saving trainers:step--114000
+
+STEP 114000 x 50
+Source to target (backtranslation)
+  - Training:         5.38   (245.57s: 4377.87tok/s src, 4896.97tok/s trg; epoch 9)
+Target to source (backtranslation)
+  - Training:         5.02   (232.23s: 4828.94tok/s src, 4263.52tok/s trg; epoch 8)
+Source to source
+  - Training:         1.43   (114.46s: 8671.36tok/s src, 8671.36tok/s trg; epoch 8)
+  - Validation:       1.36   (0.14s)
+Target to target
+  - Training:         1.33   (127.36s: 9521.07tok/s src, 9521.07tok/s trg; epoch 9)
+  - Validation:       1.39   (0.17s)
+Source to target
+  - Validation:      37.32   (0.14s)
+Target to source
+  - Validation:      60.78   (0.13s)
+
+saving_model:it115000 iters
+saving trainers:step--115000
+
+STEP 115000 x 50
+Source to target (backtranslation)
+  - Training:         5.04   (261.96s: 4427.74tok/s src, 4705.19tok/s trg; epoch 9)
+Target to source (backtranslation)
+  - Training:         5.13   (240.03s: 4993.00tok/s src, 4431.03tok/s trg; epoch 8)
+Source to source
+  - Training:         1.44   (120.61s: 8709.35tok/s src, 8709.35tok/s trg; epoch 8)
+  - Validation:       1.37   (0.15s)
+Target to target
+  - Training:         1.33   (132.62s: 9144.44tok/s src, 9144.44tok/s trg; epoch 9)
+  - Validation:       1.48   (0.17s)
+Source to target
+  - Validation:      39.94   (0.15s)
+Target to source
+  - Validation:      52.01   (0.12s)
+
+saving_model:it116000 iters
+saving trainers:step--116000
+
+STEP 116000 x 50
+Source to target (backtranslation)
+  - Training:         5.09   (283.12s: 4383.21tok/s src, 4796.66tok/s trg; epoch 9)
+Target to source (backtranslation)
+  - Training:         4.97   (234.54s: 4870.55tok/s src, 4299.13tok/s trg; epoch 9)
+Source to source
+  - Training:         1.44   (117.57s: 8695.04tok/s src, 8695.04tok/s trg; epoch 9)
+  - Validation:       1.30   (0.14s)
+Target to target
+  - Training:         1.33   (146.43s: 9287.24tok/s src, 9287.24tok/s trg; epoch 9)
+  - Validation:       1.38   (0.17s)
+Source to target
+  - Validation:      37.93   (0.14s)
+Target to source
+  - Validation:      54.15   (0.12s)
+
+
+
+STEP 117000 x 50
+Source to target (backtranslation)
+  - Training:         5.19   (266.87s: 4446.61tok/s src, 4938.12tok/s trg; epoch 9)
+Target to source (backtranslation)
+  - Training:         5.04   (242.60s: 4954.94tok/s src, 4336.65tok/s trg; epoch 9)
+Source to source
+  - Training:         1.44   (122.51s: 8569.19tok/s src, 8569.19tok/s trg; epoch 9)
+  - Validation:       1.36   (0.20s)
+Target to target
+  - Training:         1.33   (142.99s: 9333.41tok/s src, 9333.41tok/s trg; epoch 9)
+  - Validation:       1.46   (0.22s)
+Source to target
+  - Validation:      40.32   (0.15s)
+Target to source
+  - Validation:      54.10   (0.13s)
+
+saving_model:it118000 iters
+saving trainers:step--118000
+
+STEP 118000 x 50
+Source to target (backtranslation)
+  - Training:         4.89   (265.74s: 4274.29tok/s src, 4643.14tok/s trg; epoch 9)
+Target to source (backtranslation)
+  - Training:         4.90   (227.75s: 4787.22tok/s src, 4206.82tok/s trg; epoch 9)
+Source to source
+  - Training:         1.43   (111.81s: 8580.83tok/s src, 8580.83tok/s trg; epoch 9)
+  - Validation:       1.26   (0.15s)
+Target to target
+  - Training:         1.31   (137.15s: 9299.52tok/s src, 9299.52tok/s trg; epoch 9)
+  - Validation:       1.42   (0.17s)
+Source to target
+  - Validation:      39.85   (0.15s)
+Target to source
+  - Validation:      52.87   (0.12s)
+
+saving_model:it119000 iters
+saving trainers:step--119000
+
+STEP 119000 x 50
+Source to target (backtranslation)
+  - Training:         5.19   (273.91s: 4472.51tok/s src, 4983.05tok/s trg; epoch 9)
+Target to source (backtranslation)
+  - Training:         5.00   (242.50s: 5000.37tok/s src, 4351.16tok/s trg; epoch 9)
+Source to source
+  - Training:         1.44   (123.92s: 8685.06tok/s src, 8685.06tok/s trg; epoch 9)
+  - Validation:       1.25   (0.16s)
+Target to target
+  - Training:         1.32   (143.27s: 9502.36tok/s src, 9502.36tok/s trg; epoch 9)
+  - Validation:       1.43   (0.17s)
+Source to target
+  - Validation:      39.42   (0.14s)
+Target to source
+  - Validation:      51.07   (0.12s)
+
+saving_model:it120000 iters
+saving trainers:step--120000
+
+STEP 120000 x 50
+Source to target (backtranslation)
+  - Training:         4.69   (241.03s: 4549.27tok/s src, 4794.47tok/s trg; epoch 9)
+Target to source (backtranslation)
+  - Training:         5.13   (243.06s: 4929.02tok/s src, 4462.75tok/s trg; epoch 9)
+Source to source
+  - Training:         1.44   (125.47s: 8676.69tok/s src, 8676.69tok/s trg; epoch 9)
+  - Validation:       1.18   (0.14s)
+Target to target
+  - Training:         1.31   (123.68s: 9266.99tok/s src, 9266.99tok/s trg; epoch 9)
+  - Validation:       1.38   (0.17s)
+Source to target
+  - Validation:      42.36   (0.15s)
+Target to source
+  - Validation:      47.62   (0.12s)
+
+saving_model:it121000 iters
+saving trainers:step--121000
+
+STEP 121000 x 50
+Source to target (backtranslation)
+  - Training:         4.65   (259.56s: 4369.62tok/s src, 4505.12tok/s trg; epoch 9)
+Target to source (backtranslation)
+  - Training:         5.84   (321.91s: 5166.46tok/s src, 4928.09tok/s trg; epoch 9)
+Source to source
+  - Training:         1.48   (176.50s: 8591.30tok/s src, 8591.30tok/s trg; epoch 9)
+  - Validation:       1.15   (0.14s)
+Target to target
+  - Training:         1.31   (132.48s: 8938.44tok/s src, 8938.44tok/s trg; epoch 9)
+  - Validation:       1.27   (0.17s)
+Source to target
+  - Validation:      39.41   (0.15s)
+Target to source
+  - Validation:      47.11   (0.13s)
+
+saving_model:it122000 iters
+saving trainers:step--122000
+
+STEP 122000 x 50
+Source to target (backtranslation)
+  - Training:         4.54   (253.84s: 4300.21tok/s src, 4398.36tok/s trg; epoch 9)
+Target to source (backtranslation)
+  - Training:         5.74   (316.54s: 5169.70tok/s src, 4934.51tok/s trg; epoch 9)
+Source to source
+  - Training:         1.47   (175.77s: 8768.36tok/s src, 8768.36tok/s trg; epoch 9)
+  - Validation:       1.16   (0.14s)
+Target to target
+  - Training:         1.30   (124.43s: 9229.81tok/s src, 9229.81tok/s trg; epoch 9)
+  - Validation:       1.44   (0.17s)
+Source to target
+  - Validation:      41.48   (0.15s)
+Target to source
+  - Validation:      42.57   (0.12s)
+
+saving_model:it123000 iters
+saving trainers:step--123000
+
+STEP 123000 x 50
+Source to target (backtranslation)
+  - Training:         4.79   (284.02s: 4312.63tok/s src, 4330.44tok/s trg; epoch 9)
+Target to source (backtranslation)
+  - Training:         5.80   (311.50s: 5153.04tok/s src, 4953.51tok/s trg; epoch 9)
+Source to source
+  - Training:         1.47   (171.22s: 8720.80tok/s src, 8720.80tok/s trg; epoch 9)
+  - Validation:       1.17   (0.14s)
+Target to target
+  - Training:         1.32   (130.37s: 9317.36tok/s src, 9317.36tok/s trg; epoch 9)
+  - Validation:       1.43   (0.17s)
+Source to target
+  - Validation:      41.99   (0.15s)
+Target to source
+  - Validation:      44.23   (0.12s)
+
+saving_model:it124000 iters
+saving trainers:step--124000
+
+STEP 124000 x 50
+Source to target (backtranslation)
+  - Training:         4.75   (272.37s: 4285.33tok/s src, 4379.50tok/s trg; epoch 9)
+Target to source (backtranslation)
+  - Training:         5.58   (291.77s: 5092.81tok/s src, 4811.37tok/s trg; epoch 9)
+Source to source
+  - Training:         1.46   (161.53s: 8672.88tok/s src, 8672.88tok/s trg; epoch 9)
+  - Validation:       1.25   (0.14s)
+Target to target
+  - Training:         1.32   (130.34s: 9336.69tok/s src, 9336.69tok/s trg; epoch 9)
+  - Validation:       1.47   (0.16s)
+Source to target
+  - Validation:      40.62   (0.16s)
+Target to source
+  - Validation:      45.54   (0.13s)
+
+saving_model:it125000 iters
+saving trainers:step--125000
+
+STEP 125000 x 50
+Source to target (backtranslation)
+  - Training:         4.91   (264.49s: 4378.67tok/s src, 4666.00tok/s trg; epoch 9)
+Target to source (backtranslation)
+  - Training:         4.90   (217.19s: 4875.46tok/s src, 4357.58tok/s trg; epoch 9)
+Source to source
+  - Training:         1.43   (110.22s: 8613.01tok/s src, 8613.01tok/s trg; epoch 9)
+  - Validation:       1.21   (0.15s)
+Target to target
+  - Training:         1.31   (136.05s: 9334.59tok/s src, 9334.59tok/s trg; epoch 9)
+  - Validation:       1.51   (0.17s)
+Source to target
+  - Validation:      42.50   (0.15s)
+Target to source
+  - Validation:      61.26   (0.12s)
+
+saving_model:it126000 iters
+saving trainers:step--126000
+
+STEP 126000 x 50
+Source to target (backtranslation)
+  - Training:         4.93   (255.00s: 4509.67tok/s src, 4887.71tok/s trg; epoch 10)
+Target to source (backtranslation)
+  - Training:         4.84   (256.68s: 5021.98tok/s src, 4408.26tok/s trg; epoch 9)
+Source to source
+  - Training:         1.41   (131.77s: 8627.03tok/s src, 8627.03tok/s trg; epoch 9)
+  - Validation:       1.33   (0.15s)
+Target to target
+  - Training:         1.32   (132.05s: 9350.03tok/s src, 9350.03tok/s trg; epoch 10)
+  - Validation:       1.42   (0.17s)
+Source to target
+  - Validation:      38.88   (0.14s)
+Target to source
+  - Validation:      58.89   (0.12s)
+
+saving_model:it127000 iters
+saving trainers:step--127000
+
+STEP 127000 x 50
+Source to target (backtranslation)
+  - Training:         5.15   (258.10s: 4535.33tok/s src, 5024.27tok/s trg; epoch 10)
+Target to source (backtranslation)
+  - Training:         4.87   (241.22s: 5002.50tok/s src, 4399.59tok/s trg; epoch 9)
+Source to source
+  - Training:         1.42   (122.68s: 8634.47tok/s src, 8634.47tok/s trg; epoch 9)
+  - Validation:       1.30   (0.16s)
+Target to target
+  - Training:         1.32   (138.03s: 9443.90tok/s src, 9443.90tok/s trg; epoch 10)
+  - Validation:       1.50   (0.17s)
+Source to target
+  - Validation:      43.01   (0.14s)
+Target to source
+  - Validation:      51.22   (0.12s)
+
+saving_model:it128000 iters
+saving trainers:step--128000
+
+STEP 128000 x 50
+Source to target (backtranslation)
+  - Training:         4.72   (230.69s: 4548.29tok/s src, 4875.41tok/s trg; epoch 10)
+Target to source (backtranslation)
+  - Training:         4.83   (234.68s: 4933.24tok/s src, 4402.71tok/s trg; epoch 9)
+Source to source
+  - Training:         1.41   (118.78s: 8678.30tok/s src, 8678.30tok/s trg; epoch 9)
+  - Validation:       1.41   (0.15s)
+Target to target
+  - Training:         1.30   (120.16s: 9227.39tok/s src, 9227.39tok/s trg; epoch 10)
+  - Validation:       1.53   (0.17s)
+Source to target
+  - Validation:      40.80   (0.15s)
+Target to source
+  - Validation:      62.36   (0.12s)
+
+saving_model:it129000 iters
+saving trainers:step--129000
+
+STEP 129000 x 50
+Source to target (backtranslation)
+  - Training:         4.63   (227.26s: 4455.59tok/s src, 4647.57tok/s trg; epoch 10)
+Target to source (backtranslation)
+  - Training:         5.20   (249.81s: 4996.25tok/s src, 4625.18tok/s trg; epoch 9)
+Source to source
+  - Training:         1.44   (132.47s: 8688.09tok/s src, 8688.09tok/s trg; epoch 9)
+  - Validation:       1.18   (0.14s)
+Target to target
+  - Training:         1.30   (113.28s: 9385.96tok/s src, 9385.96tok/s trg; epoch 10)
+  - Validation:       1.50   (0.17s)
+Source to target
+  - Validation:      47.69   (0.14s)
+Target to source
+  - Validation:      46.23   (0.12s)
+
+
+saving_model:it130000 iters
+saving trainers:step--130000
+
+STEP 130000 x 50
+Source to target (backtranslation)
+  - Training:         4.76   (278.47s: 4404.04tok/s src, 4503.25tok/s trg; epoch 10)
+Target to source (backtranslation)
+  - Training:         5.16   (257.24s: 5057.87tok/s src, 4674.97tok/s trg; epoch 9)
+Source to source
+  - Training:         1.44   (141.58s: 8724.62tok/s src, 8724.62tok/s trg; epoch 9)
+  - Validation:       1.21   (0.14s)
+Target to target
+  - Training:         1.31   (131.84s: 9375.05tok/s src, 9375.05tok/s trg; epoch 10)
+  - Validation:       1.39   (0.17s)
+Source to target
+  - Validation:      40.15   (0.14s)
+Target to source
+  - Validation:      46.74   (0.12s)
+
+saving_model:it131000 iters
+saving trainers:step--131000
+
+STEP 131000 x 50
+Source to target (backtranslation)
+  - Training:         4.87   (302.68s: 4542.29tok/s src, 4868.62tok/s trg; epoch 10)
+Target to source (backtranslation)
+  - Training:         4.99   (278.44s: 5175.03tok/s src, 4592.94tok/s trg; epoch 10)
+Source to source
+  - Training:         1.44   (150.20s: 8528.11tok/s src, 8528.11tok/s trg; epoch 10)
+  - Validation:       1.20   (0.15s)
+Target to target
+  - Training:         1.33   (163.05s: 9066.51tok/s src, 9066.51tok/s trg; epoch 10)
+  - Validation:       1.33   (0.17s)
+Source to target
+  - Validation:      37.59   (0.14s)
+Target to source
+  - Validation:      46.44   (0.12s)
+
+saving_model:it132000 iters
+saving trainers:step--132000
+
+STEP 132000 x 50
+Source to target (backtranslation)
+  - Training:         4.84   (297.04s: 4600.67tok/s src, 5011.79tok/s trg; epoch 10)
+Target to source (backtranslation)
+  - Training:         4.92   (290.29s: 5249.22tok/s src, 4599.07tok/s trg; epoch 10)
+Source to source
+  - Training:         1.44   (150.89s: 8725.44tok/s src, 8725.44tok/s trg; epoch 10)
+  - Validation:       1.24   (0.14s)
+Target to target
+  - Training:         1.32   (162.22s: 9336.97tok/s src, 9336.97tok/s trg; epoch 10)
+  - Validation:       1.39   (0.17s)
+Source to target
+  - Validation:      41.40   (0.14s)
+Target to source
+  - Validation:      54.03   (0.12s)
+
+saving_model:it133000 iters
+saving trainers:step--133000
+
+STEP 133000 x 50
+Source to target (backtranslation)
+  - Training:         5.03   (280.29s: 4727.11tok/s src, 5328.74tok/s trg; epoch 10)
+Target to source (backtranslation)
+  - Training:         4.75   (237.64s: 4929.03tok/s src, 4312.92tok/s trg; epoch 10)
+Source to source
+  - Training:         1.40   (113.74s: 8668.98tok/s src, 8668.98tok/s trg; epoch 10)
+  - Validation:       1.29   (0.15s)
+Target to target
+  - Training:         1.31   (158.17s: 9351.77tok/s src, 9351.77tok/s trg; epoch 10)
+  - Validation:       1.41   (0.17s)
+Source to target
+  - Validation:      37.66   (0.14s)
+Target to source
+  - Validation:      55.90   (0.12s)
+
+saving_model:it134000 iters
+saving trainers:step--134000
+
+STEP 134000 x 50
+Source to target (backtranslation)
+  - Training:         4.36   (229.74s: 4563.13tok/s src, 4824.62tok/s trg; epoch 10)
+Target to source (backtranslation)
+  - Training:         4.93   (247.93s: 4975.36tok/s src, 4510.67tok/s trg; epoch 10)
+Source to source
+  - Training:         1.42   (126.67s: 8709.89tok/s src, 8709.89tok/s trg; epoch 10)
+  - Validation:       1.35   (0.14s)
+Target to target
+  - Training:         1.28   (120.72s: 9195.14tok/s src, 9195.14tok/s trg; epoch 10)
+  - Validation:       1.47   (0.17s)
+Source to target
+  - Validation:      39.65   (0.14s)
+Target to source
+  - Validation:      46.06   (0.12s)
+
+saving_model:it135000 iters
+saving trainers:step--135000
+
+STEP 135000 x 50
+Source to target (backtranslation)
+  - Training:         4.58   (249.74s: 4403.21tok/s src, 4638.23tok/s trg; epoch 10)
+Target to source (backtranslation)
+  - Training:         4.91   (240.40s: 4982.08tok/s src, 4503.57tok/s trg; epoch 10)
+Source to source
+  - Training:         1.43   (123.61s: 8734.46tok/s src, 8734.46tok/s trg; epoch 10)
+  - Validation:       1.26   (0.14s)
+Target to target
+  - Training:         1.30   (120.92s: 9333.97tok/s src, 9333.97tok/s trg; epoch 10)
+  - Validation:       1.42   (0.17s)
+Source to target
+  - Validation:      39.41   (0.14s)
+Target to source
+  - Validation:      53.69   (0.12s)
+
+saving_model:it136000 iters
+saving trainers:step--136000
+
+STEP 136000 x 50
+Source to target (backtranslation)
+  - Training:         4.45   (245.10s: 4368.99tok/s src, 4593.35tok/s trg; epoch 10)
+Target to source (backtranslation)
+  - Training:         4.97   (253.12s: 4893.82tok/s src, 4420.48tok/s trg; epoch 10)
+Source to source
+  - Training:         1.42   (127.94s: 8735.43tok/s src, 8735.43tok/s trg; epoch 10)
+  - Validation:       1.21   (0.15s)
+Target to target
+  - Training:         1.30   (120.21s: 9222.16tok/s src, 9222.16tok/s trg; epoch 10)
+  - Validation:       1.33   (0.17s)
+Source to target
+  - Validation:      41.63   (0.15s)
+Target to source
+  - Validation:      49.32   (0.12s)
+
+saving_model:it137000 iters
+saving trainers:step--137000
+
+STEP 137000 x 50
+Source to target (backtranslation)
+  - Training:         4.78   (253.48s: 4478.42tok/s src, 4884.05tok/s trg; epoch 10)
+Target to source (backtranslation)
+  - Training:         4.90   (245.16s: 4978.10tok/s src, 4407.50tok/s trg; epoch 10)
+Source to source
+  - Training:         1.42   (122.52s: 8719.99tok/s src, 8719.99tok/s trg; epoch 10)
+  - Validation:       1.35   (0.15s)
+Target to target
+  - Training:         1.30   (134.42s: 9257.31tok/s src, 9257.31tok/s trg; epoch 10)
+  - Validation:       1.43   (0.17s)
+Source to target
+  - Validation:      40.10   (0.14s)
+Target to source
+  - Validation:      54.53   (0.12s)
+
+saving_model:it138000 iters
+saving trainers:step--138000
+
+STEP 138000 x 50
+Source to target (backtranslation)
+  - Training:         5.26   (266.52s: 4375.69tok/s src, 5011.95tok/s trg; epoch 10)
+Target to source (backtranslation)
+  - Training:         4.74   (234.71s: 4928.78tok/s src, 4206.98tok/s trg; epoch 10)
+Source to source
+  - Training:         1.41   (113.01s: 8666.82tok/s src, 8666.82tok/s trg; epoch 10)
+  - Validation:       1.32   (0.14s)
+Target to target
+  - Training:         1.31   (141.39s: 9405.24tok/s src, 9405.24tok/s trg; epoch 10)
+  - Validation:       1.35   (0.17s)
+Source to target
+  - Validation:      34.73   (0.14s)
+Target to source
+  - Validation:      71.53   (0.12s)
+
+saving_model:it139000 iters
+saving trainers:step--139000
+
+STEP 139000 x 50
+Source to target (backtranslation)
+  - Training:         4.89   (240.13s: 4598.49tok/s src, 5087.64tok/s trg; epoch 10)
+Target to source (backtranslation)
+  - Training:         4.62   (238.80s: 4916.25tok/s src, 4293.27tok/s trg; epoch 10)
+Source to source
+  - Training:         1.41   (118.79s: 8675.76tok/s src, 8675.76tok/s trg; epoch 10)
+  - Validation:       1.46   (0.16s)
+Target to target
+  - Training:         1.31   (134.95s: 9234.77tok/s src, 9234.77tok/s trg; epoch 10)
+  - Validation:       1.39   (0.17s)
+Source to target
+  - Validation:      36.74   (0.14s)
+Target to source
+  - Validation:      74.56   (0.12s)
+
+saving_model:it140000 iters
+saving trainers:step--140000
+
+STEP 140000 x 50
+Source to target (backtranslation)
+  - Training:         4.57   (249.93s: 4391.03tok/s src, 4578.49tok/s trg; epoch 10)
+Target to source (backtranslation)
+  - Training:         5.42   (275.86s: 5079.74tok/s src, 4756.47tok/s trg; epoch 10)
+Source to source
+  - Training:         1.45   (147.82s: 8780.07tok/s src, 8780.07tok/s trg; epoch 10)
+  - Validation:       1.15   (0.14s)
+Target to target
+  - Training:         1.29   (127.77s: 9223.32tok/s src, 9223.32tok/s trg; epoch 10)
+  - Validation:       1.36   (0.17s)
+Source to target
+  - Validation:      41.05   (0.15s)
+Target to source
+  - Validation:      45.42   (0.12s)
+
+saving_model:it141000 iters
+saving trainers:step--141000
+
+STEP 141000 x 50
+Source to target (backtranslation)
+  - Training:         4.70   (322.70s: 4330.52tok/s src, 4362.63tok/s trg; epoch 11)
+Target to source (backtranslation)
+  - Training:         5.18   (294.44s: 5135.32tok/s src, 4762.41tok/s trg; epoch 10)
+Source to source
+  - Training:         1.44   (165.13s: 8553.08tok/s src, 8553.08tok/s trg; epoch 10)
+  - Validation:       1.16   (0.15s)
+Target to target
+  - Training:         1.31   (153.75s: 9057.33tok/s src, 9057.33tok/s trg; epoch 11)
+  - Validation:       1.34   (0.17s)
+Source to target
+  - Validation:      40.54   (0.14s)
+Target to source
+  - Validation:      46.99   (0.12s)
+
+saving_model:it142000 iters
+saving trainers:step--142000
+
+STEP 142000 x 50
+Source to target (backtranslation)
+  - Training:         4.57   (292.36s: 4390.55tok/s src, 4469.67tok/s trg; epoch 11)
+Target to source (backtranslation)
+  - Training:         5.31   (322.82s: 5223.56tok/s src, 4944.02tok/s trg; epoch 10)
+Source to source
+  - Training:         1.45   (178.46s: 8782.98tok/s src, 8782.98tok/s trg; epoch 10)
+  - Validation:       1.17   (0.14s)
+Target to target
+  - Training:         1.30   (140.41s: 9287.41tok/s src, 9287.41tok/s trg; epoch 11)
+  - Validation:       1.38   (0.17s)
+Source to target
+  - Validation:      38.56   (0.14s)
+Target to source
+  - Validation:      42.80   (0.12s)
+
+saving_model:it143000 iters
+saving trainers:step--143000
+
+STEP 143000 x 50
+Source to target (backtranslation)
+  - Training:         4.49   (277.71s: 4428.86tok/s src, 4441.99tok/s trg; epoch 11)
+Target to source (backtranslation)
+  - Training:         5.26   (315.35s: 5247.90tok/s src, 4974.98tok/s trg; epoch 10)
+Source to source
+  - Training:         1.44   (179.45s: 8770.18tok/s src, 8770.18tok/s trg; epoch 10)
+  - Validation:       1.19   (0.15s)
+Target to target
+  - Training:         1.30   (132.83s: 9329.94tok/s src, 9329.94tok/s trg; epoch 11)
+  - Validation:       1.36   (0.17s)
+Source to target
+  - Validation:      38.19   (0.14s)
+Target to source
+  - Validation:      43.67   (0.12s)
+
+saving_model:it144000 iters
+saving trainers:step--144000
+
+STEP 144000 x 50
+Source to target (backtranslation)
+  - Training:         4.76   (259.95s: 4409.81tok/s src, 4789.01tok/s trg; epoch 11)
+Target to source (backtranslation)
+  - Training:         4.52   (228.10s: 4888.70tok/s src, 4305.48tok/s trg; epoch 10)
+Source to source
+  - Training:         1.39   (110.90s: 8738.66tok/s src, 8738.66tok/s trg; epoch 10)
+  - Validation:       1.21   (0.15s)
+Target to target
+  - Training:         1.30   (134.77s: 9369.17tok/s src, 9369.17tok/s trg; epoch 11)
+  - Validation:       1.39   (0.17s)
+Source to target
+  - Validation:      36.90   (0.14s)
+Target to source
+  - Validation:      47.95   (0.12s)
+
+saving_model:it145000 iters
+saving trainers:step--145000
+
+STEP 145000 x 50
+Source to target (backtranslation)
+  - Training:         4.50   (243.43s: 4505.69tok/s src, 4742.78tok/s trg; epoch 11)
+Target to source (backtranslation)
+  - Training:         4.72   (231.10s: 4962.50tok/s src, 4462.60tok/s trg; epoch 10)
+Source to source
+  - Training:         1.41   (120.29s: 8841.35tok/s src, 8841.35tok/s trg; epoch 10)
+  - Validation:       1.25   (0.15s)
+Target to target
+  - Training:         1.29   (122.32s: 9265.46tok/s src, 9265.46tok/s trg; epoch 11)
+  - Validation:       1.47   (0.17s)
+Source to target
+  - Validation:      39.91   (0.15s)
+Target to source
+  - Validation:      54.92   (0.12s)
+
+saving_model:it146000 iters
+saving trainers:step--146000
+
+STEP 146000 x 50
+Source to target (backtranslation)
+  - Training:         4.35   (244.97s: 4393.68tok/s src, 4647.83tok/s trg; epoch 11)
+Target to source (backtranslation)
+  - Training:         4.76   (245.51s: 4942.05tok/s src, 4469.89tok/s trg; epoch 11)
+Source to source
+  - Training:         1.40   (125.79s: 8712.39tok/s src, 8712.39tok/s trg; epoch 11)
+  - Validation:       1.22   (0.14s)
+Target to target
+  - Training:         1.29   (123.69s: 9269.05tok/s src, 9269.05tok/s trg; epoch 11)
+  - Validation:       1.44   (0.17s)
+Source to target
+  - Validation:      39.71   (0.15s)
+Target to source
+  - Validation:      52.45   (0.12s)
+
+saving_model:it147000 iters
+saving trainers:step--147000
+
+STEP 147000 x 50
+Source to target (backtranslation)
+  - Training:         4.56   (275.15s: 4429.69tok/s src, 4706.56tok/s trg; epoch 11)
+Target to source (backtranslation)
+  - Training:         4.66   (238.88s: 5005.40tok/s src, 4443.64tok/s trg; epoch 11)
+Source to source
+  - Training:         1.40   (125.09s: 8623.60tok/s src, 8623.60tok/s trg; epoch 11)
+  - Validation:       1.24   (0.15s)
+Target to target
+  - Training:         1.30   (138.53s: 9410.89tok/s src, 9410.89tok/s trg; epoch 11)
+  - Validation:       1.48   (0.17s)
+Source to target
+  - Validation:      43.03   (0.14s)
+Target to source
+  - Validation:      50.67   (0.12s)
+
