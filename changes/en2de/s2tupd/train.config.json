@@ -1,0 +1,50 @@
+{
+  "src": "./data/en2de.clean.de",
+  "trg": "./data/en2de.clean.en",
+  "src2trg":null,
+  "trg2src":null,
+  "max_sentence_length":50,
+  "cache":1000000,
+  "cache_parallel":null,
+
+  "src_embeddings":"./data/small.de.map.emb",
+  "trg_embeddings":"./data/small.en.map.emb",
+  "src_vocabulary":null,
+  "trg_vocabulary":null,
+  "embedding_size":300,
+  "cutoff":50000,
+  "learn_encoder_embeddings":false,
+  "fixed_decoder_embeddings":false,
+  "fixed_generator":false,
+
+  "layers":2,
+  "hidden":600,
+  "disable_bidirectional":false,
+  "disable_denoising":false,
+  "disable_backtranslation":false,
+
+  "batch":50,
+  "learning_rate":0.0002,
+  "dropout":0.3,
+  "param_init":0.1,
+  "iterations":300000,
+
+  "save":"test",
+  "save_interval":5000,
+  "save_train_interval":1000,
+
+  "load":"test",
+  "is_load_model":false,
+  "is_load_optimizer":false,
+
+  "log_interval":5000,
+  "validation":["./data/Dev-set/newstest2012.de","./data/Dev-set/newstest2012.en"],
+  "validation_directions":["src2src", "trg2trg", "src2trg", "trg2src"],
+  "validation_output":"test",
+  "validation_beam_size":0,
+
+  "encoding":"utf-8",
+  "cuda":true
+
+
+}
